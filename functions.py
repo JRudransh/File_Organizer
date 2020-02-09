@@ -2,7 +2,6 @@ import os
 import shutil
 
 
-
 def goto(given_folder):
     os.chdir(given_folder)
 
