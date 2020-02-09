@@ -1,5 +1,11 @@
 # Set your main path
-my_target = "/root/home/rudransh"
+
+# Windows
+# my_target = "c:/"
+
+# Linux
+my_target = "/root"
+
 
 # To manage downloads only
 # my_folder_list = ["Downloads"]
