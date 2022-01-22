@@ -1,5 +1,9 @@
 import os
 import shutil
+import pathlib
+
+
+HOME = pathlib.Path.home()
 
 
 def goto(given_folder):
